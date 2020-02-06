@@ -1,0 +1,15 @@
+<<: &shared
+  language_name: French without feeding
+mappings:
+  - display_name: FrenchZ-no-feeding to IPA
+    in_lang: frz
+    out_lang: frz-ipa
+    authors:
+      - Eric Joanis
+    type: mapping
+    mapping: frz_to_ipa.csv
+    abbreviations: frz_abbs.csv
+    case_sensitive: false
+    norm_form: 'NFD'
+    prevent_feeding: true
+    <<: *shared

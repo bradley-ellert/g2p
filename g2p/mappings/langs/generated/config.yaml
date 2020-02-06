@@ -41,3 +41,10 @@ mappings:
     language_name: Mohawk
     mapping: moh-ipa_to_eng-ipa.json
     out_lang: eng-ipa
+  - as_is: false
+    author: Generated 2020-02-06 10:46:00.721678
+    display_name: French without feeding IPA to English IPA
+    in_lang: frz-ipa
+    language_name: French without feeding
+    mapping: frz-ipa_to_eng-ipa.json
+    out_lang: eng-ipa
