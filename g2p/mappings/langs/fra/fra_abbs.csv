@@ -1,1 +1,5 @@
 Vowels,a,e,i,o,u
+Consonants,b,c,d,f,g,h,j,k,l,m,n,p,q,r,s,t,v,w,x,z
+Letters,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+AllLettersBroken,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,é,è,ê,ë,à,â,ù,û,î,ç
+LettersAccentsBroken,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,^,¨,`
